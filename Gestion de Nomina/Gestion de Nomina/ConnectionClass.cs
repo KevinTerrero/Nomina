@@ -44,6 +44,7 @@ namespace Agenda
         #region Para leer data 
         public SqlDataReader DataReader(string Query_)
         {
+            
             SqlCommand cmd = new SqlCommand(Query_, con);
             SqlDataReader dr = cmd.ExecuteReader();
             return dr;
