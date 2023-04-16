@@ -39,6 +39,7 @@
             this.label = new System.Windows.Forms.Label();
             this.TimerLb = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label3
@@ -155,12 +156,26 @@
             this.label1.Size = new System.Drawing.Size(0, 20);
             this.label1.TabIndex = 14;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.label2.Location = new System.Drawing.Point(375, 9);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(43, 20);
+            this.label2.TabIndex = 15;
+            this.label2.Text = "Salir";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
             // Login
             // 
             this.AcceptButton = this.SubmitBtn;
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(430, 452);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.TimerLb);
             this.Controls.Add(this.label);
@@ -190,6 +205,7 @@
         private System.Windows.Forms.Label label;
         private System.Windows.Forms.Label TimerLb;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 

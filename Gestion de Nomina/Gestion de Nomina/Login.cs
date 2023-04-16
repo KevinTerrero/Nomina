@@ -51,8 +51,10 @@ namespace Gestion_de_Nomina
             ConnectionClass con = new ConnectionClass();
             string Password = "";
             bool Exists = false;
+            string rol = "";
             string username = UserTxtBox.Text;
             string password = PasswordTxtBox.Text;
+            string fullLabel2 = "";
             string fullLabel = "Usuario: " + username;
             if (UserTxtBox.Text == "")
             {
@@ -66,11 +68,13 @@ namespace Gestion_de_Nomina
             }
             
                 con.OpenConection();
-                SqlDataReader dr =con.DataReader("select * from Usuarios where usuario='" + username + "'");
+                SqlDataReader dr =con.DataReader("select * from Users where usuario='" + username + "'");
                 if (dr.Read())
                 {
-                    Password = dr.GetString(2);
-                    string user = dr.GetString(1);
+                    Password = dr.GetString(4);
+                    string user = dr.GetString(3);
+                    rol = dr.GetString(5);
+                    fullLabel2 = "Rol: " + rol;
                     users.UserName = user;
                     Exists = true;
                 }
@@ -79,7 +83,7 @@ namespace Gestion_de_Nomina
                     if (Cryptography.Decrypt(Password).Equals(PasswordTxtBox.Text))
                     {
                         MessageBox.Show("Bienvenido, " + username );
-                        Dashboard dashboard = new Dashboard(fullLabel);
+                        Dashboard dashboard = new Dashboard(fullLabel, fullLabel2);
                         dashboard.Show();
                         this.Hide();
                     }
@@ -196,5 +200,9 @@ namespace Gestion_de_Nomina
             }
         }
 
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

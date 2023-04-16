@@ -12,7 +12,7 @@ namespace Agenda
 
     {
 
-        string ConnectionString = @"Data Source= localhost; Initial Catalog = Nomina; Integrated Security = True";
+        public string ConnectionString = @"Data Source= localhost; Initial Catalog = Nomina; Integrated Security = True";
         SqlConnection con;
 
         #region Abrir conexion a SQL
