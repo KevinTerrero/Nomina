@@ -11,3 +11,18 @@ C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Pr
 C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.pdb
 C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Dashboard.resources
 C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.EmpleadosMant.resources
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe.config
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.pdb
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Dashboard.resources
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.EmpleadosMant.resources
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Login.resources
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.NominasMant.resources
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Properties.Resources.resources
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.UsuariosMant.resources
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.exe
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.pdb
