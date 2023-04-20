@@ -1,4 +1,5 @@
 ﻿namespace Gestion_de_Nomina
+    
 {
     partial class NominasMant
     {
