@@ -1,4 +1,5 @@
 ﻿namespace Gestion_de_Nomina
+    
 {
     partial class NominasMant
     {
@@ -34,7 +35,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnbus = new System.Windows.Forms.Button();
             this.txtSueldoB = new System.Windows.Forms.TextBox();
             this.txtSaldo = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -128,14 +129,14 @@
             this.textBox1.Size = new System.Drawing.Size(115, 22);
             this.textBox1.TabIndex = 74;
             // 
-            // button1
+            // btnbus
             // 
-            this.button1.Location = new System.Drawing.Point(134, 80);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(90, 23);
-            this.button1.TabIndex = 75;
-            this.button1.Text = "Buscar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnbus.Location = new System.Drawing.Point(134, 80);
+            this.btnbus.Name = "btnbus";
+            this.btnbus.Size = new System.Drawing.Size(90, 23);
+            this.btnbus.TabIndex = 75;
+            this.btnbus.Text = "Buscar";
+            this.btnbus.UseVisualStyleBackColor = true;
             // 
             // txtSueldoB
             // 
@@ -482,7 +483,7 @@
             this.Controls.Add(this.txtSaldo);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnbus);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.txtNombre);
@@ -505,7 +506,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnbus;
         private System.Windows.Forms.TextBox txtSueldoB;
         private System.Windows.Forms.TextBox txtSaldo;
         private System.Windows.Forms.Label label1;
