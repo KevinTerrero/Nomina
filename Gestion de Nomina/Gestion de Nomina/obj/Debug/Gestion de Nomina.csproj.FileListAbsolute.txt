@@ -26,3 +26,9 @@ C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nom
 C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.CoreCompileInputs.cache
 C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.exe
 C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.pdb
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\anton\source\repos\KevinTerrero\Nomina\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.CopyComplete
