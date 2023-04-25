@@ -1,0 +1,56 @@
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe.config
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.AssemblyReference.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Login.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Properties.Resources.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.GenerateResource.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Dashboard.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.EmpleadosMant.resources
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.exe
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.pdb
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe.config
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.pdb
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Dashboard.resources
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.EmpleadosMant.resources
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Login.resources
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.NominasMant.resources
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Properties.Resources.resources
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.UsuariosMant.resources
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.GenerateResource.cache
+C:\Users\MSII\Downloads\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe.config
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\Gestion de Nomina.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.AssemblyReference.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Dashboard.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.EmpleadosMant.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Login.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.NominasMant.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.Properties.Resources.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.UsuariosMant.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.GenerateResource.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.EmpleadosConsulta.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.NominaConsultas.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.UsuariosConsultas.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.ReaderDashboard.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion_de_Nomina.EditorDashboard.resources
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\itextsharp.dll
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\itextsharp.xml
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\obj\Debug\Gestion de Nomina.csproj.CopyComplete
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\RestSharp.dll
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\TextmagicRest.dll
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Gestion de Nomina\Nomina-main\Nomina-main\Gestion de Nomina\Gestion de Nomina\bin\Debug\RestSharp.xml
